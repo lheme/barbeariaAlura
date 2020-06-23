@@ -95,6 +95,7 @@ footer {
 
 form {
     margin: 40px 0;
+    padding: 20px;
 }
 
 form label, form legend {
@@ -115,8 +116,8 @@ form label, form legend {
 }
 
 .enviar {
-    width: 40%;
-    padding: 15px 0;
+    width: 30%;
+    padding: 20px 0;
     background: orange;
     color: white;
     font-weight: bold;
@@ -266,7 +267,7 @@ td, th {
     .produtos li {
         display: block;
         width: auto;
-        margin: 1.5% 0;
+        margin: 10% 0;
     }
 
     form {
